@@ -3,7 +3,7 @@
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-project-ideas.svg)](http://hits.dwyl.io/fnplus/community-project-ideas) people starting from 17th May 2019.
 
-## Contributors
+## Contributor
 
 [![](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/images/0)](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/links/0)[![](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/images/1)](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/links/1)[![](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/images/2)](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/links/2)[![](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/images/3)](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/links/3)[![](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/images/4)](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/links/4)[![](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/images/5)](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/links/5)[![](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/images/6)](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/links/6)[![](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/images/7)](https://sourcerer.io/fame/xlogix/fnplus/community-project-ideas/links/7)
 
